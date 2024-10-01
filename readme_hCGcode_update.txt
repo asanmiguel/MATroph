@@ -1,0 +1,1 @@
+hCGonly.m has been updated on 09/29/2024. Use the recent version hCGonly_v2.m for hCG analysis. Other files remain the same.
